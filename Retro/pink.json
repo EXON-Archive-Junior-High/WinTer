@@ -1,0 +1,41 @@
+{
+    "theme": "dark",
+    "profiles": [
+        {
+            "name": "Command Prompt",
+            "commandline": "cmd.exe",
+            "closeOnExit" : true,
+            "colorScheme" : "Retro",
+            "cursorColor" : "#FFFFFF",
+            "cursorShape": "filledBox",
+            "fontSize" : 16,
+            "padding" : "5, 5, 5, 5",
+            "tabTitle" : "Command Prompt",
+            "fontFace": "PxPlus IBM VGA8",
+            "experimental.retroTerminalEffect": true
+        }
+    ],
+    "schemes": [
+        {
+            "name": "Retro-Pink",
+            "background": "#000000",
+            "black": "#e945f5",
+            "blue": "#e945f5",
+            "brightBlack": "#e945f5",
+            "brightBlue": "#e945f5",
+            "brightCyan": "#e945f5",
+            "brightGreen": "#e945f5",
+            "brightPurple": "#e945f5",
+            "brightRed": "#e945f5",
+            "brightWhite": "#e945f5",
+            "brightYellow": "#e945f5",
+            "cyan": "#e945f5",
+            "foreground": "#e945f5",
+            "green": "#e945f5",
+            "purple": "#e945f5",
+            "red": "#e945f5",
+            "white": "#e945f5",
+            "yellow": "#e945f5"
+        }
+    ]
+}
